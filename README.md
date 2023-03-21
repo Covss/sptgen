@@ -1,0 +1,2 @@
+# sptgen
+Createspotgen
